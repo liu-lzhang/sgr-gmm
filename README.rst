@@ -56,6 +56,7 @@ Top-level
 ---------
 
 - Base DGMM source code:
+- 
   - ``gm_moments.py``: implicit moment computation for low-rank Gaussian mixtures.
   - ``gmm.py``: variants of generalized method of moments compared in the paper (MM, GMM, DGMM).
   - ``NystromApprox.py``: module for Nyström approximation of the inner product kernel.
@@ -68,6 +69,7 @@ Top-level
   - ``utils.py``: utility functions.
 
 - Notebooks for numerical experiments: 
+- 
   - ``robust_dgmm_numerical_experiments.ipynb``: numerical experiments for robust DGMM. 
   - ``sgr_numerical_experiments.ipynb``: numerical experiments for spectral gradient reweighting.
 
