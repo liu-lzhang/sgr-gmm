@@ -1,0 +1,28 @@
+# ---------- DGMM citation metadata ----------
+
+cff-version: 1.2.0
+
+message: "If you use this code, please cite it as below."
+
+
+title: "Robust Moment-Based Estimation via Spectral Gradient Reweighting"
+doi: 
+date-released: 
+
+authors:
+  - family-names: "Zhang"
+    given-names: "Liu"
+  - family-names: "Singer"
+    given-names: "Amit"
+
+preferred-citation:
+  - type: article
+    title: "Robust Moment-Based Estimation via Spectral Gradient Reweighting"
+    journal:
+    year: 
+    doi: 
+    authors:
+      - family-names: "Zhang"
+        given-names: "Liu"
+      - family-names: "Amit"
+        given-names: "Singer"

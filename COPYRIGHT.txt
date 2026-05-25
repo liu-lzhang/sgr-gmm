@@ -1,0 +1,22 @@
+SGR-GMM — Copyright Notice
+(Last updated 2026-05-25)
+
+Copyright (c) 2026 Liu Zhang
+
+SPDX-License-Identifier: GPL-3.0-only
+
+------------------------------------------------------------------------------------------
+This is a free software: you can redistribute it and/or modify it under the terms of the 
+GNU General Public License as published by the Free Software Foundation, version 3 of the 
+License.
+
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. 
+If not, see <http://www.gnu.org/licenses/>.
+
+All files in this repository are copyrighted by the above right-holders 
+unless a different notice appears in the file header.
+------------------------------------------------------------------------------------------
