@@ -31,7 +31,7 @@ Clone the repository and install all dependencies in a virtual environment. Inst
    pip3 install ipykernel
    python3.11 -m ipykernel install --user --name=sgr-gmm-venv
 
-Launch Jupyter notebooks ``sgr_numerical_experiments.ipynb`` and ``robust_dgmm_numerical_experiments.ipynb`` and select the kernel named ``sgr-gmm-venv``. Then, run the respective sections in the Jupyter notebook.
+Launch Jupyter notebooks ``sgr_numerical_experiments.ipynb`` and ``robust_dgmm_numerical_experiments.ipynb`` and select the kernel named ``sgr-gmm-venv``. Then, run the respective sections in the Jupyter notebooks.
 
 We recommend using the pinned versions listed below to ensure reproducibility and compatibility:
 
@@ -121,11 +121,13 @@ If you use this code in your work, please cite the article [1]_.
    @article{SGR-GMM,
      author  = {Zhang, Liu and Singer, Amit},
      title   = {Robust Moment-Based Estimation via Spectral Gradient Reweighting},
+     journal = {arXiv preprint arXiv:2605.27718},
      year    = {2026},
+     doi     = {https://doi.org/10.48550/arXiv.2605.27718},
    }
 
 .. [1] L. Zhang and A. Singer,
    *Robust Moment-Based Estimation via Spectral Gradient Reweighting*,
    2026.
 
-*Last edit: Liu Zhang - May 25, 2026*
+*Last edit: Liu Zhang - May 27, 2026*

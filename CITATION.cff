@@ -1,13 +1,13 @@
-# ---------- DGMM citation metadata ----------
+# ---------- SGR-GMM citation metadata ----------
 
 cff-version: 1.2.0
 
-message: "If you use this code, please cite it as below."
+message: "If you use this code, please cite the following paper."
 
 
 title: "Robust Moment-Based Estimation via Spectral Gradient Reweighting"
-doi: 
-date-released: 
+doi: https://doi.org/10.48550/arXiv.2605.27718
+date-released: 2026-05-26
 
 authors:
   - family-names: "Zhang"
@@ -18,11 +18,11 @@ authors:
 preferred-citation:
   - type: article
     title: "Robust Moment-Based Estimation via Spectral Gradient Reweighting"
-    journal:
-    year: 
-    doi: 
+    journal: "arXiv preprint arXiv:2605.27718"
+    year: 2026
+    doi: https://doi.org/10.48550/arXiv.2605.27718
     authors:
       - family-names: "Zhang"
         given-names: "Liu"
-      - family-names: "Amit"
-        given-names: "Singer"
+      - family-names: "Singer"
+        given-names: "Amit"
